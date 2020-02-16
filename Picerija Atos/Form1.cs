@@ -62,7 +62,7 @@ namespace Picerija_Atos
 
         private void studentToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Aleksandar Čobović 131/2012", "Visoka tehnička škola");
+            MessageBox.Show("Nikola Bosnic 131/2015", "Visoka tehnička škola");
         }
 
         private void informacijeToolStripMenuItem_Click(object sender, EventArgs e)
